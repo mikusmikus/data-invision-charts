@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/data-invision-charts/static/css/main.0a9d765b.chunk.css",
+    "main.js": "/data-invision-charts/static/js/main.eaf91470.chunk.js",
+    "main.js.map": "/data-invision-charts/static/js/main.eaf91470.chunk.js.map",
+    "runtime-main.js": "/data-invision-charts/static/js/runtime-main.d9f75c9a.js",
+    "runtime-main.js.map": "/data-invision-charts/static/js/runtime-main.d9f75c9a.js.map",
+    "static/js/2.57e0890d.chunk.js": "/data-invision-charts/static/js/2.57e0890d.chunk.js",
+    "static/js/2.57e0890d.chunk.js.map": "/data-invision-charts/static/js/2.57e0890d.chunk.js.map",
+    "static/js/3.0fc32c95.chunk.js": "/data-invision-charts/static/js/3.0fc32c95.chunk.js",
+    "static/js/3.0fc32c95.chunk.js.map": "/data-invision-charts/static/js/3.0fc32c95.chunk.js.map",
+    "index.html": "/data-invision-charts/index.html",
+    "static/css/main.0a9d765b.chunk.css.map": "/data-invision-charts/static/css/main.0a9d765b.chunk.css.map",
+    "static/js/2.57e0890d.chunk.js.LICENSE.txt": "/data-invision-charts/static/js/2.57e0890d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9f75c9a.js",
+    "static/js/2.57e0890d.chunk.js",
+    "static/css/main.0a9d765b.chunk.css",
+    "static/js/main.eaf91470.chunk.js"
+  ]
+}
